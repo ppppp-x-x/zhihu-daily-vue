@@ -5,6 +5,12 @@
 ## [demo地址](https://harrison94pxxxxx.github.io/zhihu-daily-vue/dist/index.html#/home"鼠标悬停显示")
 > (请使用手机端浏览或chrome手机预览模式)
 
+## 项目预览
+<img width="45%" height="100%" src="https://github.com/Harrison94pxxxxx/zhihu-daily-vue/raw/master/dist/static/img/home.png"/>
+<img width="45%" height="100%" src="https://github.com/Harrison94pxxxxx/zhihu-daily-vue/raw/master/dist/static/img/theme.png"/>
+<img width="45%" height="100%" src="https://github.com/Harrison94pxxxxx/zhihu-daily-vue/raw/master/dist/static/img/articles.png"/>
+<img width="45%" height="100%" src="https://github.com/Harrison94pxxxxx/zhihu-daily-vue/raw/master/dist/static/img/nightTheme.png"/>
+
 ## Dependencies
 <pre>
 "dependencies": {
