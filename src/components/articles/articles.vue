@@ -39,7 +39,7 @@
         var head = document.getElementsByTagName('head')[0]
         var linkTag = document.createElement('link')
         linkTag.id = 'dynamic-style'
-        linkTag.href = this.articles.css
+        linkTag.href = this.articles.css[0].slice(0, 4) + 's' + this.articles.css[0].slice(4)
         linkTag.setAttribute('rel', 'stylesheet')
         linkTag.setAttribute('media', 'all')
         linkTag.setAttribute('type', 'text/css')

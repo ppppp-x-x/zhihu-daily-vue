@@ -84,7 +84,9 @@
         align-items flex-start
         flex-wrap wrap
         .short-comments-title
+          padding-top 10px
           padding-left 5%
+          padding-bottom 10px
           font-size 18px
           font-family "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
         .short-comments-item-info
@@ -94,10 +96,12 @@
           align-items center
           flex-wrap nowrap
           .short-comments-avatar
+            margin-top 20px
             margin-left 2%
             width 10%
             border-radius 50%
           .short-comments-author
+            padding-top 20px
             padding-left 5%
             width 83%
             font-weight bold
@@ -109,6 +113,7 @@
           padding-left 17%
           width 100%
         .short-comments-grid
+          margin-top 20px
           margin-left 17%
           width 83%
           height 1px
@@ -141,7 +146,9 @@
         align-items flex-start
         flex-wrap wrap
         .long-comments-title
+          padding-top 10px
           padding-left 5%
+          padding-bottom 10px
           font-size 18px
           font-family "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
         .long-comments-item-info
@@ -151,10 +158,12 @@
           align-items center
           flex-wrap nowrap
           .long-comments-avatar
+            margin-top 20px
             margin-left 2%
             width 10%
             border-radius 50%
           .long-comments-author
+            padding-top 20px
             padding-left 5%
             width 83%
             font-weight bold
@@ -166,6 +175,7 @@
           padding-left 17%
           width 100%
         .long-comments-grid
+          margin-top 20px
           margin-left 17%
           width 83%
           height 1px
