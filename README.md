@@ -1,6 +1,7 @@
 # zhihuribao/知乎日报
 
 > a zhihuribao demo/这是一个纯前端项目，知乎日报移动版。制作它的目的主要是为了加强对于Vue的运用和加深对于原生JavaScript的理解。因为是一个纯静态项目，所以所有的代码直接布置在gitpages上。感谢由http://www.huangxizhou.com/2017/04/29/zhihu-dailyAPI/ 提供的知乎日报API
+欢迎 Issue、Fork、Star:smile:
 
 ## [demo地址](https://harrison94pxxxxx.github.io/zhihu-daily-vue/dist/index.html#/home"鼠标悬停显示")
 > (请使用手机端浏览或chrome手机预览模式以获得更好的浏览体验)
