@@ -124,6 +124,7 @@
         })
       },
       getHomeLists () {
+        console.log(this.nowDate)
         this.$http.get('https://zhihu-daily.leanapp.cn/api/v1/before-stories/' + this.nowDate).then(response => {
           for (let i = 0; i < response.data.STORIES.stories.length; i++) {
             response.data.STORIES.stories[i].images[0] = 'http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=' + response.data.STORIES.stories[i].images[0]

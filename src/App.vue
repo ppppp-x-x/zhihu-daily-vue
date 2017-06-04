@@ -93,6 +93,9 @@
           month = '0' + month
         }
         var date = myDate.getDate()
+        if (date < 10) {
+          date = '0' + date
+        }
         this.myDate = year + '/' + month + '/' + date
         var nowDate = year + month + date
         this.$store.commit('setDate', nowDate)
